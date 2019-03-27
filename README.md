@@ -1,12 +1,15 @@
-Dash Software for X49
-Hardware
-	Processing
-		teensyduino
-		microsquirt
-	Input
-		6 momentary buttons
-	Output
-		2x 7-segment displays
-		1x lcd display
-tuning mode
-normal mode
+# Dash Software for X49
+## Hardware
+[PCB](https://github.com/LehighRacing/hardware)
+### Processing
++ [teensyduino](link)
++ [microsquirt](link)
+### Input
++ 6x [momentary buttons](link)
+### Output
++ 2x [7-segment displays](link)
++ 1x [LCD display](link)
++ 18x [rgb LEDs](link)
+## Software Design
+### tuning mode
+### normal mode
