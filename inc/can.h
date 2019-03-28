@@ -1,3 +1,3 @@
 #include <FlexCAN.h>
-void canInit(int pin1,pin2);
-int canRead(int id, char[] name);
+void canInit(int pin1,int pin2);
+int canRead(int id,string name);
