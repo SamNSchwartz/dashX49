@@ -3,5 +3,5 @@ void setup(){
 	canInit(2,35);
 }
 void loop(){
-	canRead(0x5F0,"RPM");
+	canRead(0x5F0);
 }
